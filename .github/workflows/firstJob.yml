@@ -1,8 +1,1 @@
-name: CI
-on: push
-jobs: 
-    runs-on: ubuntu-letast 
-    steps:
-    - name: welcome
-      run: echo "first actions "
-
+steps:
