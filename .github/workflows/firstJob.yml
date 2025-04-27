@@ -1,9 +1,8 @@
 name: CI
 on: push
 jobs: 
-    
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-letast 
     steps:
-    - name: welcome message
-      run: echo "my frist action"
+    - name: welcome
+      run: echo "first actions "
 
